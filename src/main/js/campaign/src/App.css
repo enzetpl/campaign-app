@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+
+.text-danger {
+  margin-left: 20%;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.OFF {
+  color: darkred;
+  font-weight: bold;
+}
+.ON {
+  color: green;
+  font-weight: bold;
+}
